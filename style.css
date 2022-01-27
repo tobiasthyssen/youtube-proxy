@@ -22,7 +22,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 1em;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 
 .emoji-big {
